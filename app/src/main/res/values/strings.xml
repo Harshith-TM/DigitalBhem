@@ -28,9 +28,9 @@
 
     <!--Project Details-->
     <string name="projects">Projects</string>
-    <string name="project1">>Ticket Booking App: A Train ticket booking application for android. Built using XML, JAVA and FIREBASE.</string>
-    <string name="project2">> Password Manager: An android application to manage users password locally on their device. Built using XML, JAVA.</string>
-    <string name="project3">>Expense Tracker: An Expense Tracker web application built using AngularJS.</string>
+    <string name="project1">>Ticket Booking App</string>
+    <string name="project2">> Password Manager</string>
+    <string name="project3">>Expense Tracker</string>
 
     <!--Certificate Details-->
     <string name="certificate">Certificates</string>
